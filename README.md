@@ -22,5 +22,5 @@ When you run the program, it will first prompt you to enter a name:
 - The program then prints the string containing the repeated names.
 
 ## Authors
-- Brit Dao, Brit Dao, Wafik Tawfik
+- Brit Dao, Maoz Yoav, Wafik Tawfik
 
