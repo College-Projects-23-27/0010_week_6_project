@@ -24,3 +24,5 @@ When you run the program, it will first prompt you to enter a name:
 ## Authors
 - Brit Dao, Maoz Yoav, Wafik Tawfik
 
+### Decision behind choosing License
+As students, having a strict license is not helpful. To be able to use this an example or similar, we chose the GPL. It also disallows DRM and copyright, and neither of those are helpful on our program
