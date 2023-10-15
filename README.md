@@ -26,3 +26,6 @@ When you run the program, it will first prompt you to enter a name:
 
 ### Decision behind choosing License
 As students, having a strict license is not helpful. To be able to use this an example or similar, we chose the GPL. It also disallows DRM and copyright, and neither of those are helpful on our program
+
+### Decision behind Code of Conduct
+We chose the ACM Code of Conduct because it's widely respected in the computing world. It promotes honesty, respect, and good behavior, which aligns with our project's values. We wanted a guideline that ensures everyone involved acts professionally and ethically.
